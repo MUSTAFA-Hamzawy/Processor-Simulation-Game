@@ -1,4 +1,8 @@
- <h1 align="center">Processor Simulation Game</h1>
+<div align="center">
+  <h1 align="center">Processor Simulation Game</h1>
+ <img src="" alt="logo or main photo">
+ </div>
+
 <div id="top"></div>
 <!-- TABLE OF CONTENTS -->
 <details>
