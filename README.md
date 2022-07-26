@@ -1,10 +1,16 @@
+<div id="top"></div>
+
 <div align="center">
   <h1 align="center">Processor Simulation Game</h1>
- <img src="" alt="logo or main photo">
+ <img src="https://github.com/MUSTAFA-Hamzawy/Processor-Simulation-Game/blob/main/Screenshots/main%20photo.PNG" alt="logo or main photo">
  </div>
-
-<div id="top"></div>
+ 
 <!-- TABLE OF CONTENTS -->
+<br>
+<br>
+<br>
+<br>
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
